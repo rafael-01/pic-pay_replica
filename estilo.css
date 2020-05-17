@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    height: 20vh;
+    
+}
+
+#menu {
+    background-color:white;
+    position: fixed;
+    width: 100%;
+}
+
+.caixa {
+    position: relative;
+    
+    
+}
+
+ li {
+    display: inline-block;
+    float: right;
+    margin-right: 50px;
+    margin-top: 34px;
+    line-height: 40px;
+    font-size: 16px;
+    /* font-weight: bold; */
+    font-family: 'manrope', sans-serif;
+    color:#0d9855;
+}
+
+#btn {
+    float: right;
+    text-decoration: none;
+    margin-right: 55px;
+    margin-top: 30px;
+    border-radius: 40px;
+    width: 180px;
+    color:#fff;
+    line-height: 40px;
+    font-size: 16px;
+    font-weight: bold;
+    background: #11c76f;
+}
+
+#logo {
+    margin-left: 110px;
+    margin-top: 24px;
+    margin-bottom: 20px;
+    line-height: 40px;
+}
